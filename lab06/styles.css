@@ -1,0 +1,20 @@
+body 
+    {
+    font-family:timesnewroman;
+}
+h1, h2
+{
+    color:darkslategray;
+}
+.evenrow
+{
+    background-color: antiquewhite;
+}
+h1
+{
+    font-face:3em;
+}
+h2
+{
+font-face:2em;
+}
