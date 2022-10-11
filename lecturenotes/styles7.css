@@ -17,3 +17,9 @@ body {
     background-image: url("../images/pumpkin.png");
     background-repeat: no-repeat;
 }
+
+.second {
+    border: 2px solid #ff0000;
+    padding: 10px; 
+    margin: 20px;
+}

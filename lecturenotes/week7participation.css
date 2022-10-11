@@ -1,0 +1,9 @@
+p {
+    background-color:#ff45de;
+    background-image: url("../images/Otto.png");
+}
+   
+.second {
+    border: 2px solid #ffffff;
+    padding: 10px;
+}
