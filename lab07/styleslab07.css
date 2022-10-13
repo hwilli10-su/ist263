@@ -13,13 +13,10 @@ color:#fce700
 nav {
     background-color:#98a8f8 ;
     padding: 10px;
-    color: #fce700;
+    color: #ff0000;
     margin-bottom: 30px;
     
 }
 nav a:hover {
     background-color: #faf7f0;
-}
-nav {
-    color:#ffffff;
 }
