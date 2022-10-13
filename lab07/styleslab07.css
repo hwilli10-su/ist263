@@ -14,5 +14,9 @@ a:hover {
 color:#fce700
 }
 nav {
-    background-color:#fce700 ;
+    background-color:#98a8f8 ;
+    color: #fce700;
+}
+nav a:hover {
+    background-color: #faf7f0;
 }
