@@ -1,0 +1,15 @@
+body {
+    color:#bccef8;
+}
+head, h1, h2 {
+    color:#98a8f8
+}
+p {
+    background-color: #faf7f0;
+}
+a:visited {
+color:#cdfcf6
+}
+a:hover {
+color:#fce700
+}
