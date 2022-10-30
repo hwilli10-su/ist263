@@ -1,9 +1,11 @@
-body {
+body {background-color: #bccef8;
     color:#bccef8;
+    font-family: 'Times New Roman', Times, serif;
 }
-head, h1, h2 {
+h1 {
     color:#98a8f8
 }
+h2 {color: #98a8f8;}
 p {
     background-color: #faf7f0;
 }
@@ -22,6 +24,17 @@ nav a:hover {
 }
 caption {text-align: center;}
 
-h1 {text-align:center}
-img {width:50px;}
-.row {display:flex;}
+.img {float: left; margin right: 10px}
+.clear {clear: both;}
+.part2 {display: flex;}
+table, th, td {border: 1px solid #000000}
+.header {text-align:center}
+
+.parent {display: flex; justify-content: space-around;} 
+.sidebar {background-color: #fce700;
+border-radius: 25px;
+padding: 20px;
+width: 100px
+height:100px;}
+.flexbox2 {display: flex; flex-basis: 70%; justify-content: space-between; margin: 10px; padding: 10px; left: 0;}
+.flexbox1 {flex-basis: 30%; margin: 10px; padding: 10px;}
