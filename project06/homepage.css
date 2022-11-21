@@ -12,9 +12,6 @@ p {color: #1f1300;}
 .schoolbooks {display:flex; background-color: #cc5803;}
 .img1, .img2, .img3, .img4 {width: 200px;}
 .img2 {}
-.theprocess {display: flex; flex-direction: row; justify-content: space-around;}
+.theprocess {display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap;}
 .processstep {width: 200px;}
-@media  and (max-width: 800px) {width}
 
-{max-width:100%;}
-    @media only screen and (min-width: 768px)
