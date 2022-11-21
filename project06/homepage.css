@@ -6,10 +6,10 @@ body {background-color: #ffc15e;
     margin-left: auto;
     margin-right: auto;
     width: 50%;}
-h1,h2,h3,h4 {color:#cc5803;}
+h1,h2,h3,h4 {color:#873a03;}
 p {color: #1f1300;}
-.funbooks {background-color:#cc5803; display:flex;}
-.schoolbooks {display:flex; background-color: #cc5803;}
+.funbooks {background-color:#873a03; display:flex;}
+.schoolbooks {display:flex; background-color: #873a03;}
 .img1, .img2, .img3, .img4 {width: 200px;}
 .img2 {}
 .theprocess {display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap;}
