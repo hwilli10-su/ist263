@@ -9,6 +9,12 @@ body {background-color: #ffc15e;
 h1,h2,h3,h4 {color:#cc5803;}
 p {color: #1f1300;}
 .funbooks {background-color:#cc5803; display:flex;}
-.schoolbooks {display:flex;}
-.img1 {width: 20%; height: 20%;}
+.schoolbooks {display:flex; background-color: #cc5803;}
+.img1, .img2, .img3, .img4 {width: 200px;}
+.img2 {}
+.theprocess {display: flex; flex-direction: row; justify-content: space-around;}
+.processstep {width: 200px;}
+@media  and (max-width: 800px) {width}
 
+{max-width:100%;}
+    @media only screen and (min-width: 768px)
