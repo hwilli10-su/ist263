@@ -17,3 +17,4 @@ p {color: #1f1300;}
 .white{color:#ffffff}
 
 .bookcontainer {display:flex; flex-direction: row; justify-content: space-around;flex-wrap: wrap;}
+.bookpics {width:150px}
