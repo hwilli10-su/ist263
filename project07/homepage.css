@@ -1,13 +1,13 @@
 body {background-color: #ffc15e;
-    font-family: Verdana, Geneva, Tahoma, sans-serif; padding: 0px, 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 
 .banner {display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;}
-h1,h2,h3,h4 {color:#873a03;}
-p {color: #1f1300;}
+h1,h2,h3,h4 {color:#873a03;padding: 0px, 50px;}
+p {color: #1f1300;padding: 0px, 50px;}
 .funbooks {background-color:#873a03; display:flex;}
 .schoolbooks {display:flex; background-color: #873a03;}
 .img1, .img2, .img3, .img4 {width: 200px;}
