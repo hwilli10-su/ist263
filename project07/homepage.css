@@ -22,3 +22,5 @@ p {color: #1f1300;padding: 0px, 50px;}
 
 .navstyle {background-color: #ffffff; padding: 10px;}
 .typewidth {width: 200px;}
+
+.tooltip:hover .tooltiptext {visibility:visible;opacity:1;}
