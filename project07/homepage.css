@@ -19,3 +19,5 @@ p {color: #1f1300;}
 .bookcontainer {display:flex; flex-direction: row; justify-content: space-around;flex-wrap: wrap;}
 .bookpics {width:150px;}
 .textbookpics {width: 150px;}
+
+.navstyle {background-color: #ffffff; padding: 10px;}
