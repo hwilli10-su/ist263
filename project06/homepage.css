@@ -15,3 +15,5 @@ p {color: #1f1300;}
 .theprocess {display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap;}
 .processstep {width: 200px;}
 .white{color:#ffffff}
+
+.bookcontainer {display:flex; flex-direction: row; justify-content: space-around;flex-wrap: wrap;}
